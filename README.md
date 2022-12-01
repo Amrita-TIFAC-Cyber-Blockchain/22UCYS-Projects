@@ -1,35 +1,36 @@
 # 22CYS Projects ![](https://img.shields.io/badge/-Live-green)
 
 ![](https://img.shields.io/badge/UG-22CYS-purple) ![](https://img.shields.io/badge/Focus-TBD-blue)
+
 ## General Details 
 
-| Roll No. | Name | 
-|:--------:|:----:|
-| CB.EN.U4CYS22002 | ADITHYA N S |
-| CB.EN.U4CYS22004 | AISHWARYA S | 
-| CB.EN.U4CYS22006 | ANANTH R | 
-| CB.EN.U4CYS22007 | ANASWARA SURESH .M . K |
-| CB.EN.U4CYS22008 | ARUL SUJITH S | 
-| CB.EN.U4CYS22010 | Aadhithya Sivakumar | 
-| CB.EN.U4CYS22012 | Avi Nair | 
-| CB.EN.U4CYS22015 | BURLA RUSHYENDRA REDDY | 
-| CB.EN.U4CYS22016 | C S AMRITHA | 
-| CB.EN.U4CYS22017 | CHITLA VYSHALI | 
-| CB.EN.U4CYS22019 | Chinni Nagasree Hansica| 
-| CB.EN.U4CYS22020 | DEEPAK KUMAR S | 
-| CB.EN.U4CYS22021 | DHARSHIKA S | 
-| CB.EN.U4CYS22023 | G Hamsini | 
-| CB.EN.U4CYS22024 | G VETTRIVEL |
-| CB.EN.U4CYS22025 | Gunateet Dev |
-| CB.EN.U4CYS22027 | Harshith Gangisetty | 
-| CB.EN.U4CYS22037 | Lalitha K | 
-| CB.EN.U4CYS22039 | MARRI SANJU | 
-| CB.EN.U4CYS22045 | NEDURUMALLI VEDVARSHITH REDDY | 
-| CB.EN.U4CYS22049 | Pavan Shanmukha Madhav Gunda | 
-| CB.EN.U4CYS22051 | R Sruthi | 
-| CB.EN.U4CYS22056 | Reddicherla Thanuj |
-| CB.EN.U4CYS22060 | SHREE HARINI T | 
-| CB.EN.U4CYS22065 | KOLLURU SAI SUPRAJ | 
-| CB.EN.U4CYS22066 | S Parvathi | 
-| CB.EN.U4CYS22076 | TANGELLA SREE CHANDAN | 
+| Roll No. | Name | ORCiD | Domain |
+|:--------:|:----:|:-----:|:------:|
+| CB.EN.U4CYS22002 | ADITHYA N S | [0000-0003-4076-0250](https://orcid.org/0000-0003-4076-0250) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22004 | AISHWARYA S | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22006 | ANANTH R | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22007 | ANASWARA SURESH M K | [0000-0002-1860-3892](https://orcid.org/0000-0002-1860-3892) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22008 | ARUL SUJITH S | [0000-0002-9327-8559](https://orcid.org/0000-0002-9327-8559) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22010 | Aadhithya Sivakumar | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22012 | Avi Nair | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22015 | BURLA RUSHYENDRA REDDY | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22016 | C S AMRITHA | [0000-0002-5432-6001](https://orcid.org/0000-0002-5432-6001) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22017 | CHITLA VYSHALI | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22019 | Chinni Nagasree Hansica| [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22020 | DEEPAK KUMAR S | [0000-0002-1699-2492](https://orcid.org/0000-0002-1699-2492) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22021 | DHARSHIKA S | [0000-0003-1006-2857](https://orcid.org/0000-0003-1006-2857) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22023 | G Hamsini | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22024 | G VETTRIVEL | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22025 | Gunateet Dev | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22027 | Harshith Gangisetty | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22037 | Lalitha K | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22039 | MARRI SANJU | [0000-0002-2078-7168](https://orcid.org/0000-0002-2078-7168) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22045 | NEDURUMALLI VEDVARSHITH REDDY | [0000-0001-9420-110X](https://orcid.org/0000-0001-9420-110X) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22049 | Pavan Shanmukha Madhav Gunda | [0000-0002-9977-4561](https://orcid.org/0000-0002-9977-4561) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22051 | R Sruthi | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22056 | Reddicherla Thanuj | [0000-0002-1137-1590](https://orcid.org/0000-0002-1137-1590) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22060 | SHREE HARINI T | [0000-0001-6140-6539](https://orcid.org/0000-0001-6140-6539) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22065 | KOLLURU SAI SUPRAJ | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22066 | S Parvathi | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22076 | TANGELLA SREE CHANDAN | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
 
