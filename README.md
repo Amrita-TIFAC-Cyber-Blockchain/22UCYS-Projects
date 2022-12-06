@@ -30,6 +30,6 @@
 | CB.EN.U4CYS22056 | Reddicherla Thanuj | [0000-0002-1137-1590](https://orcid.org/0000-0002-1137-1590) | ![](https://img.shields.io/badge/-TBD-blue) |
 | CB.EN.U4CYS22060 | SHREE HARINI T | [0000-0001-6140-6539](https://orcid.org/0000-0001-6140-6539) | ![](https://img.shields.io/badge/-TBD-blue) |
 | CB.EN.U4CYS22065 | KOLLURU SAI SUPRAJ | [0000-0001-7077-0607](https://orcid.org/0000-0001-7077-0607) | ![](https://img.shields.io/badge/-TBD-blue) |
-| CB.EN.U4CYS22066 | S Parvathi | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22066 | S Parvathi | [0000-0002-6584-7996](https://orcid.org/0000-0002-6584-7996) | ![](https://img.shields.io/badge/-TBD-blue) |
 | CB.EN.U4CYS22076 | TANGELLA SREE CHANDAN | [0000-0002-9360-7279](https://orcid.org/0000-0002-9360-7279) | ![](https://img.shields.io/badge/-TBD-blue) |
 
