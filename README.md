@@ -43,7 +43,7 @@
 | CB.EN.U4CYS22018 | Charan K | [0000-0003-3850-0994](https://orcid.org/0000-0003-3850-0994) | ![](https://img.shields.io/badge/-TBD-blue) |
 | CB.EN.U4CYS22025 | Gunateet Dev | [0000-0002-8562-7384](https://orcid.org/0000-0002-8562-7384) | ![](https://img.shields.io/badge/-TBD-blue) |
 | CB.EN.U4CYS22026 | HEMADHRI P C | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
-| CB.EN.U4CYS22032 | KARRI JEESHITHA | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22032 | KARRI JEESHITHA | [0000-0002-4530-525X](https://orcid.org/0000-0002-4530-525X) | ![](https://img.shields.io/badge/-TBD-blue) |
 | CB.EN.U4CYS22033 | KRISHNAMOORTHI P L | [0000-0003-2901-4118](https://orcid.org/0000-0003-2901-4118) | ![](https://img.shields.io/badge/-TBD-blue) |
 | CB.EN.U4CYS22034 | Karthick M | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
 | CB.EN.U4CYS22035 | Kaushik M | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
