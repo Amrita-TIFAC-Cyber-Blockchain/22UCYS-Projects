@@ -56,6 +56,6 @@
 | CB.EN.U4CYS22061 | SREE SHARVESH S S | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
 | CB.EN.U4CYS22062 | Shravan Krishnan.G | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
 | CB.EN.U4CYS22064 | YALLANURU KISHAN SAI | [0000-0001-6617-7309](https://orcid.org/0000-0001-6617-7309) | ![](https://img.shields.io/badge/-TBD-blue) |
-| CB.EN.U4CYS22067 | Amita Narayanan Kutty | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22067 | Amita Narayanan Kutty | [0000-0003-0441-4537](https://orcid.org/0000-0003-0441-4537) | ![](https://img.shields.io/badge/-TBD-blue) |
 | CB.EN.U4CYS22071 | ANAGH SHAJI PLAMOOTTUKADA | [0000-0002-3768-8836](https://orcid.org/0000-0002-3768-8836) | ![](https://img.shields.io/badge/-TBD-blue) |
-| CB.EN.U4CYS22072 | RUDRA SRI LAKSHMI | [](https://orcid.org/) | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22072 | RUDRA SRI LAKSHMI | [0000-0002-1700-5583](https://orcid.org/0000-0002-1700-5583) | ![](https://img.shields.io/badge/-TBD-blue) |
