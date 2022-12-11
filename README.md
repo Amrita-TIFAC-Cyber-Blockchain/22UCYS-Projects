@@ -31,6 +31,7 @@
 | CB.EN.U4CYS22051 | R Sruthi | ![](https://img.shields.io/badge/-Blockchain-darkblue) |
 | CB.EN.U4CYS22056 | Reddicherla Thanuj |![](https://img.shields.io/badge/-Forensics-purple) |
 | CB.EN.U4CYS22060 | SHREE HARINI T | ![](https://img.shields.io/badge/-Blockchain-darkblue) |
+| CB.EN.U4CYS22063 | VAJJULA SATYA SIDDARDHA | ![](https://img.shields.io/badge/-TBD-blue) |
 | CB.EN.U4CYS22065 | KOLLURU SAI SUPRAJ | ![](https://img.shields.io/badge/-TBD-blue) |
 | CB.EN.U4CYS22066 | S Parvathi | ![](https://img.shields.io/badge/-Law-black) |
 | CB.EN.U4CYS22076 | TANGELLA SREE CHANDAN | ![](https://img.shields.io/badge/-TBD-blue) |
