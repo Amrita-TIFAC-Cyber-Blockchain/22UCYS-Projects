@@ -51,7 +51,7 @@
 | CB.EN.U4CYS22035 | Kaushik M | ![](https://img.shields.io/badge/-TBD-blue) |
 | CB.EN.U4CYS22046 | PARTHIV KUMAR NIKKU | ![](https://img.shields.io/badge/-TBD-blue) |
 | CB.EN.U4CYS22047 | PILLIMETLA VAMSI |  ![](https://img.shields.io/badge/-OSINT-purple)  |
-| CB.EN.U4CYS22050 | R M NAREN ADITHYA | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22050 | R M NAREN ADITHYA | ![](https://img.shields.io/badge/-Law-black) |
 | CB.EN.U4CYS22055 | Ramraj S | ![](https://img.shields.io/badge/-TBD-blue) |
 | CB.EN.U4CYS22057 | S MOHANA VAMSI |  ![](https://img.shields.io/badge/-Forensics-purple) |
 | CB.EN.U4CYS22059 | SARIDE SOMESWARA SAI SRI | ![](https://img.shields.io/badge/-Forensics-purple) |
