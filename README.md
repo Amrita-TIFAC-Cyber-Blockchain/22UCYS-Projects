@@ -23,7 +23,7 @@
 | CB.EN.U4CYS22020 | DEEPAK KUMAR S | ![](https://img.shields.io/badge/-Blockchain-darkblue) |
 | CB.EN.U4CYS22021 | DHARSHIKA S | ![](https://img.shields.io/badge/-Forensics-purple) |
 | CB.EN.U4CYS22023 | G Hamsini | ![](https://img.shields.io/badge/-OSINT-purple)  |
-| CB.EN.U4CYS22024 | G VETTRIVEL | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22024 | G VETTRIVEL | ![](https://img.shields.io/badge/-Quantum-blue) |
 | CB.EN.U4CYS22027 | Harshith Gangisetty | ![](https://img.shields.io/badge/-Cyber_Psychology-darkgreen) |
 | CB.EN.U4CYS22037 | Lalitha K | ![](https://img.shields.io/badge/-Blockchain-darkblue) |
 | CB.EN.U4CYS22039 | MARRI SANJU | ![](https://img.shields.io/badge/-Forensics-purple) |
