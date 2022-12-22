@@ -74,7 +74,7 @@
 | CB.EN.U4CYS22030 | Jose Rohit M | ![](https://img.shields.io/badge/-TBD-blue) |
 | CB.EN.U4CYS22031 | Joshua Anto A | ![](https://img.shields.io/badge/-TBD-blue) |
 | CB.EN.U4CYS22036 | LOGESH R | ![](https://img.shields.io/badge/-TBD-blue) |
-| CB.EN.U4CYS22038 | MAREDDY SAI TEJAS | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22038 | MAREDDY SAI TEJAS | ![](https://img.shields.io/badge/-Law-black) |
 | CB.EN.U4CYS22041 | Mukund Kumarappan S | ![](https://img.shields.io/badge/-Forensics-purple) |
 | CB.EN.U4CYS22042 | N.Meera | ![](https://img.shields.io/badge/-Forensics-purple) |
 | CB.EN.U4CYS22043 | NAMITHA SUDHISHKUMAR NAIR | ![](https://img.shields.io/badge/-TBD-blue) |
