@@ -13,7 +13,7 @@
 | CB.EN.U4CYS22004 | AISHWARYA S |  ![](https://img.shields.io/badge/-Blockchain-darkblue) |
 | CB.EN.U4CYS22006 | ANANTH R | ![](https://img.shields.io/badge/-Cyber_Psychology-darkgreen) |
 | CB.EN.U4CYS22007 | ANASWARA SURESH M K | ![](https://img.shields.io/badge/-Blockchain-darkblue) |
-| CB.EN.U4CYS22008 | ARUL SUJITH S | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22008 | ARUL SUJITH S | ![](https://img.shields.io/badge/-Blockchain-darkblue) |
 | CB.EN.U4CYS22010 | Aadhithya Sivakumar | ![](https://img.shields.io/badge/-OSINT-purple) |
 | CB.EN.U4CYS22012 | Avi Nair | ![](https://img.shields.io/badge/-Forensics-purple) |
 | CB.EN.U4CYS22015 | BURLA RUSHYENDRA REDDY | ![](https://img.shields.io/badge/-OSINT-purple)  |
@@ -71,7 +71,7 @@
 | CB.EN.U4CYS22005 | AMAL RITESSH A P | ![](https://img.shields.io/badge/-OSINT-purple) |
 | CB.EN.U4CYS22009 | ASRITA NL | ![](https://img.shields.io/badge/-TBD-blue) |
 | CB.EN.U4CYS22028 | Hemanth Kumaar J P | ![](https://img.shields.io/badge/-TBD-blue) |
-| CB.EN.U4CYS22030 | Jose Rohit M | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22030 | Jose Rohit M | ![](https://img.shields.io/badge/-Blockchain-darkblue) |
 | CB.EN.U4CYS22031 | Joshua Anto A | ![](https://img.shields.io/badge/-Blockchain-darkblue) |
 | CB.EN.U4CYS22036 | LOGESH R | ![](https://img.shields.io/badge/-TBD-blue) |
 | CB.EN.U4CYS22038 | MAREDDY SAI TEJAS | ![](https://img.shields.io/badge/-Law-black) |
