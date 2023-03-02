@@ -46,7 +46,7 @@
 | CB.EN.U4CYS22025 | Gunateet Dev | ![](https://img.shields.io/badge/-OSINT-purple) |
 | CB.EN.U4CYS22026 | HEMADHRI P C | ![](https://img.shields.io/badge/-OSINT-purple) |
 | CB.EN.U4CYS22032 | KARRI JEESHITHA | ![](https://img.shields.io/badge/-Blockchain-darkblue) |
-| CB.EN.U4CYS22033 | KRISHNAMOORTHI P L | ![](https://img.shields.io/badge/-Forensics-purple) |
+| CB.EN.U4CYS22033 | KRISHNAMOORTHI P L | ![](https://img.shields.io/badge/-Blockchain-darkblue)  |
 | CB.EN.U4CYS22034 | Karthick M | ![](https://img.shields.io/badge/-Forensics-purple) |
 | CB.EN.U4CYS22035 | Kaushik M | ![](https://img.shields.io/badge/-Blockchain-darkblue) |
 | CB.EN.U4CYS22046 | PARTHIV KUMAR NIKKU | ![](https://img.shields.io/badge/-OSINT-purple) |
