@@ -36,12 +36,13 @@
 | CB.EN.U4CYS22065 | KOLLURU SAI SUPRAJ | ![](https://img.shields.io/badge/-OSINT-purple)  |
 | CB.EN.U4CYS22066 | S Parvathi | ![](https://img.shields.io/badge/-Law-black) |
 | CB.EN.U4CYS22076 | TANGELLA SREE CHANDAN | ![](https://img.shields.io/badge/-OSINT-purple) |
+| CB.EN.U4CYS22013 | B M Sai Sathvik | ![](https://img.shields.io/badge/-OSINT-purple) |
 
 ### Group 2
 
 | Roll No. | Name | Domain |
 |:--------:|:----:|:------:|
-| CB.EN.U4CYS22011 | Akshit Singh | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22011 | Akshit Singh | ![](https://img.shields.io/badge/-ML-silver) |
 | CB.EN.U4CYS22018 | Charan K | ![](https://img.shields.io/badge/-Forensics-purple) |
 | CB.EN.U4CYS22025 | Gunateet Dev | ![](https://img.shields.io/badge/-OSINT-purple) |
 | CB.EN.U4CYS22026 | HEMADHRI P C | ![](https://img.shields.io/badge/-OSINT-purple) |
@@ -55,12 +56,13 @@
 | CB.EN.U4CYS22055 | Ramraj S | ![](https://img.shields.io/badge/-OSINT-purple) |
 | CB.EN.U4CYS22057 | S MOHANA VAMSI |  ![](https://img.shields.io/badge/-Forensics-purple) |
 | CB.EN.U4CYS22059 | SARIDE SOMESWARA SAI SRI | ![](https://img.shields.io/badge/-Forensics-purple) |
-| CB.EN.U4CYS22061 | SREE SHARVESH S S | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22061 | SREE SHARVESH S S | ![](https://img.shields.io/badge/-Forensics-purple) |
 | CB.EN.U4CYS22062 | Shravan Krishnan.G | ![](https://img.shields.io/badge/-Forensics-purple) |
 | CB.EN.U4CYS22064 | YALLANURU KISHAN SAI | ![](https://img.shields.io/badge/-OSINT-purple)  |
 | CB.EN.U4CYS22067 | Amita Narayanan Kutty | ![](https://img.shields.io/badge/-Cyber_Psychology-darkgreen) |
 | CB.EN.U4CYS22071 | ANAGH SHAJI PLAMOOTTUKADA | ![](https://img.shields.io/badge/-Cyber_Psychology-darkgreen) |
 | CB.EN.U4CYS22072 | RUDRA SRI LAKSHMI | ![](https://img.shields.io/badge/-Blockchain-darkblue) |
+| CB.EN.U4CYS22014 | BODDU PREM KUMAR | ![](https://img.shields.io/badge/-TBD-darkblue) |
 
 ### Group 3
 
@@ -69,30 +71,28 @@
 | CB.EN.U4CYS22001 | ADARSH R K | ![](https://img.shields.io/badge/-Forensics-purple) |
 | CB.EN.U4CYS22003 | AGILPRASANNA P | ![](https://img.shields.io/badge/-Blockchain-darkblue) |
 | CB.EN.U4CYS22005 | AMAL RITESSH A P | ![](https://img.shields.io/badge/-OSINT-purple) |
-| CB.EN.U4CYS22009 | ASRITA NL | ![](https://img.shields.io/badge/-TBD-blue) |
-| CB.EN.U4CYS22028 | Hemanth Kumaar J P | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22009 | ASRITA NL |![](https://img.shields.io/badge/-Forensics-purple) |
+| CB.EN.U4CYS22028 | Hemanth Kumaar J P | ![](https://img.shields.io/badge/-Blockchain-darkblue) |
 | CB.EN.U4CYS22030 | Jose Rohit M | ![](https://img.shields.io/badge/-Blockchain-darkblue) |
 | CB.EN.U4CYS22031 | Joshua Anto A | ![](https://img.shields.io/badge/-Blockchain-darkblue) |
 | CB.EN.U4CYS22036 | LOGESH R | ![](https://img.shields.io/badge/-Forensics-purple) |
 | CB.EN.U4CYS22038 | MAREDDY SAI TEJAS | ![](https://img.shields.io/badge/-Law-black) |
 | CB.EN.U4CYS22041 | Mukund Kumarappan S | ![](https://img.shields.io/badge/-Forensics-purple) |
 | CB.EN.U4CYS22042 | N.Meera | ![](https://img.shields.io/badge/-Forensics-purple) |
-| CB.EN.U4CYS22043 | NAMITHA SUDHISHKUMAR NAIR | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22043 | NAMITHA SUDHISHKUMAR NAIR | ![](https://img.shields.io/badge/-Forensics-purple) |
 | CB.EN.U4CYS22044 | NAVARANG C D | ![](https://img.shields.io/badge/-Forensics-purple) |
 | CB.EN.U4CYS22052 | RAHUL SHANKAR V | ![](https://img.shields.io/badge/-Game_Development-brown) |
-| CB.EN.U4CYS22053 | RATHNESH R | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22053 | RATHNESH R |  ![](https://img.shields.io/badge/-Cyber_Psychology-darkgreen) |
 | CB.EN.U4CYS22068 | Mukesh R | ![](https://img.shields.io/badge/-OSINT-purple) |
-| CB.EN.U4CYS22070 | Nandana Mahesh | ![](https://img.shields.io/badge/-TBD-blue) |
-| CB.EN.U4CYS22075 | VISHAL S | ![](https://img.shields.io/badge/-TBD-blue) |
+| CB.EN.U4CYS22070 | Nandana Mahesh | ![](https://img.shields.io/badge/-Forensics-purple) |
+| CB.EN.U4CYS22075 | VISHAL S | ![](https://img.shields.io/badge/-OSINT-purple) |
+| CB.EN.U4CYS22040 | MIDHRUJAYAN K | ![](https://img.shields.io/badge/-Law-black) |
+| CB.EN.U4CYS22069 | MOTHE ANURAG REDDY | ![](https://img.shields.io/badge/-Blockchain-darkblue) |
 
 ### Not Interested for Now
 
 | Roll No. | Name |
 |:--------:|:----:|
-| CB.EN.U4CYS22013 | B M Sai Sathvik |
-| CB.EN.U4CYS22014 | BODDU PREM KUMAR |
-| CB.EN.U4CYS22040 | MIDHRUJAYAN K |
 | CB.EN.U4CYS22048 | Palakurty Roopak Naga Venkata Sree Sai |
-| CB.EN.U4CYS22069 | MOTHE ANURAG REDDY | 
 | CB.EN.U4CYS22073 | VISHAL R S | 
 | CB.EN.U4CYS22074 | Vijay Esvar Ba |
