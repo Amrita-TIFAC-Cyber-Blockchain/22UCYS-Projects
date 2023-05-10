@@ -7,7 +7,7 @@
 
 | Team Number | Team Members | Domain | Survey Title | 
 |:-----------:|:------------:|:------:|:------------:|
-| UG22CYS-S2-Sur-01 | Adarsh R K <br/> Namitha Sudhishkumar Nair <br/> Anagh Shaji Plamoottukada | | | 
+| UG22CYS-S2-Sur-01 | Adarsh R K <br/> Namitha Sudhishkumar Nair <br/> Anagh Shaji Plamoottukada | ![](https://img.shields.io/badge/-P-gold) Cyber Forensics with Psychology | | 
 | UG22CYS-S2-Sur-02 | Adithya N S <br/> Aishwarya S <br/> R Sruthi | | | 
 | UG22CYS-S2-Sur-03 | Agilprasanna P <br/> Jose Rohit M  | | | 
 | UG22CYS-S2-Sur-04 | Anaswara Suresh M K <br/> C S Amritha | | | 
@@ -26,7 +26,7 @@
 | UG22CYS-S2-Sur-17 | Karthick M <br/> Logesh R <br/> Vijay Esvar Ba | | | 
 | UG22CYS-S2-Sur-18 | Marri Sanju <br/> S Mohana Vamsi <br/> Saride Someswara Sai Sri Chakri | | | 
 | UG22CYS-S2-Sur-19 | Midhrujayan K <br/> R M Naren Adithya <br/> S Parvathi | | | 
-| UG22CYS-S2-Sur-21 | N Meera | | | 
+| UG22CYS-S2-Sur-21 | N Meera | ![](https://img.shields.io/badge/-P-gold) Graph Theory in Blockchain | | 
 | UG22CYS-S2-Sur-22 | Parthiv Kumar Nikku <br/> Pillimetla Vamsi <br/> Yallanuru Kishan Sai | | | 
-| UG22CYS-S2-Sur-23 | Reddicherla Thanuj <br/> Nandana Mahesh | | | 
-| UG22CYS-S2-Sur-24 | Amita Narayanan Kutty | | | 
+| UG22CYS-S2-Sur-23 | Reddicherla Thanuj <br/> Nandana Mahesh | ![](https://img.shields.io/badge/-P-gold) Cyber Forensics | | 
+| UG22CYS-S2-Sur-24 | Amita Narayanan Kutty | ![](https://img.shields.io/badge/-P-gold) Metaverse Cyber Psychology | | 
