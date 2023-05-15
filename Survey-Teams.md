@@ -1,7 +1,31 @@
 # 22CYS Projects ![](https://img.shields.io/badge/-Live-green)
 
 ![](https://img.shields.io/badge/UG-22CYS-purple) <br/> 
-![](https://img.shields.io/badge/Focus-Cyber_Awareness-blue) ![](https://img.shields.io/badge/Focus-Cyber_Psychology-blue) ![](https://img.shields.io/badge/Focus-Cyber_Law-blue) ![](https://img.shields.io/badge/Focus-Forensics-blue) ![](https://img.shields.io/badge/Focus-OSINT-blue) ![](https://img.shields.io/badge/Focus-Blockchain_Technology-blue)
+![](https://img.shields.io/badge/Focus-Cyber_Awareness-blue) ![](https://img.shields.io/badge/Focus-Cyber_Psychology-blue) ![](https://img.shields.io/badge/Focus-Cyber_Law-blue) ![](https://img.shields.io/badge/Focus-Metaverse_&_Game_Development-blue) ![](https://img.shields.io/badge/Focus-Forensics-blue) ![](https://img.shields.io/badge/Focus-OSINT-blue) ![](https://img.shields.io/badge/Focus-Blockchain_Technology-blue) ![](https://img.shields.io/badge/Focus-Smart_Contract_Security-blue)
+
+## Suggested Topics
+
+- Mechanisms for OSINT Cyber Security
+- Fake News Detection
+- Privacy and Security Awareness
+- Ethical and Social Implications of Privacy and Security
+- AI for Security, Resiliency and Privacy
+- Security for Vehicular Networks
+- Corda Blockchain and its Security
+- Hyperledger Besu Smart Contract Security
+- Hyperledger Indy Security
+- Policy and Strategies for Metaverse Security
+- Cyber Psychology in General
+- Cyber Psychology for Metaverse
+- OSINT for social media handles
+- OSINT for celebrities 
+- Scannable Codes and their security
+- 5G and 6G Networks and their security
+- Metaverse Forensics
+- Blockchain DApps: Climate Alert System, Honey Traceability and Aircraft Inventory Management System
+- Distributed Intelligence using DLT/Blockchain
+- Security of NFTs
+- Quantum Computers Impact on Modern World
 
 ## Teams
 
