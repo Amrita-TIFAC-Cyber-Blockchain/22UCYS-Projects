@@ -2,8 +2,13 @@
 
 ![](https://img.shields.io/badge/UG-22CYS-purple) <br/> 
 
-## Seminar Topics
+## Seminar Status
 
+|   Date   |     Name    |    Topic  |
+|:--------:|:-----------:|:---------:|
+
+
+## Seminar Topics
 
 1. [Standards] SEI CERT C Coding Standard
 2. [Hardware] Hardware Security
