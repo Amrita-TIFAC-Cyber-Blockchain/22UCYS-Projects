@@ -6,6 +6,10 @@
 
 |   Date   |     Name    |    Topic  |
 |:--------:|:-----------:|:---------:|
+| 05-May-2023 | Pavan Shanmukha Madhav Gunda | OWASP Top 10 Vulnerabilities |
+| 19-May-2023 | Namitha Sudhishkumar Nair | Cyber Attacks on Indian Organisations |
+| 25-May-2023 | Mukund Kumarappan S | OSI Layer  |
+| 25-May-2023 | Joshua Anto A | Artificial Neural Network |
 
 
 ## Seminar Topics
