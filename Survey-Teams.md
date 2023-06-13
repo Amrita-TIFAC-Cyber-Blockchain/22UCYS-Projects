@@ -32,7 +32,7 @@
 | Team Number | Team Members | Domain | Survey Title | 
 |:-----------:|:------------:|:------:|:------------:|
 | UG22CYS-S2-Sur-01 | Adarsh R K <br/> Namitha Sudhishkumar Nair <br/> Anagh Shaji Plamoottukada <br/> Rathneesh R | Cyber Forensics with Psychology | ![](https://img.shields.io/badge/-P-gold) Fake News Detection | 
-| UG22CYS-S2-Sur-02 | Adithya N S <br/> Aishwarya S <br/> R Sruthi | Blockchain | | 
+| UG22CYS-S2-Sur-02 | Adithya N S <br/> Aishwarya S <br/> R Sruthi | Blockchain | ![](https://img.shields.io/badge/-P-gold) Aircraft Inventory Management System | 
 | UG22CYS-S2-Sur-03 | Agilprasanna P <br/> Jose Rohit M <br/> Kaushik M <br/> Hemanath Kumar J P | Blockchain | Blockchain in Mobile Networks | 
 | UG22CYS-S2-Sur-04 | Anaswara Suresh M K <br/> C S Amritha | Cyber Awareness | CART Quotient | 
 | UG22CYS-S2-Sur-05 | Asrita N L <br/> Karri Jeeshitha <br/> Lalitha K | OSINT & Forensics | | 
@@ -52,5 +52,5 @@
 | UG22CYS-S2-Sur-19 | Avi Nair <br/> Midhrujayan K <br/> R M Naren Adithya <br/> S Parvathi | Cyber Law | | 
 | UG22CYS-S2-Sur-21 | N Meera | Blockchain | ![](https://img.shields.io/badge/-P-gold) Graph Theory in Blockchain |
 | UG22CYS-S2-Sur-22 | Parthiv Kumar Nikku <br/> Pillimetla Vamsi <br/> Yallanuru Kishan Sai | OSINT | | 
-| UG22CYS-S2-Sur-23 | Reddicherla Thanuj <br/> Nandana Mahesh | Cyber Forensics | ![](https://img.shields.io/badge/-P-gold) | 
+| UG22CYS-S2-Sur-23 | Reddicherla Thanuj <br/> Nandana Mahesh | Cyber Forensics | ![](https://img.shields.io/badge/-P-gold) OSINT using Snapchat and Snapchat Forensics | 
 | UG22CYS-S2-Sur-24 | Amita Narayanan Kutty | Cyber Psychology | ![](https://img.shields.io/badge/-P-gold) Metaverse Cyber Psychology | | 
