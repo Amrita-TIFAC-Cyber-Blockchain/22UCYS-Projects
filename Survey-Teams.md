@@ -45,12 +45,12 @@
 | UG22CYS-S2-Sur-12 | Akshit Singh <br/> Deepak Kumar S <br/> Joshua Anto A <br/> Shree Harini T | Blockchain | Smart Contract Governance | 
 | UG22CYS-S2-Sur-13 | G Hamsini <br/> Hemadhri P C <br/> Ramraj S | OSINT | ![](https://img.shields.io/badge/-P-gold) Candidate Reputation and Constituency Analysis based on OSINT | 
 | UG22CYS-S2-Sur-14 | Harshith Gangisetty <br/> Vajjula Satya Siddardha <br/> Kolluru Sai Supraj | Health Care | CyberSecurity for Health Care | 
-| UG22CYS-S2-Sur-15 | Gunateet Dev <br/> Pavan Shanmukha Madhav Gunda | OSINT | | 
+| UG22CYS-S2-Sur-15 | Gunateet Dev <br/> Pavan Shanmukha Madhav Gunda | OSINT | ![](https://img.shields.io/badge/-P-gold) OSINT on Academic Journals | 
 | UG22CYS-S2-Sur-16 | Krishnamoorthi P L <br/> Sree Sharvesh S S | Cyber Forensics | | 
 | UG22CYS-S2-Sur-17 | Karthick M <br/> Logesh R <br/> Vijay Esvar Ba | Cyber Forensics  | | 
 | UG22CYS-S2-Sur-18 | Marri Sanju <br/> S Mohana Vamsi <br/> Saride Someswara Sai Sri Chakri | Cyber Forensics  | | 
 | UG22CYS-S2-Sur-19 | Avi Nair <br/> Midhrujayan K <br/> R M Naren Adithya <br/> S Parvathi | Cyber Law | | 
-| UG22CYS-S2-Sur-21 | N Meera | Blockchain | ![](https://img.shields.io/badge/-P-gold) Graph Theory in Blockchain |
-| UG22CYS-S2-Sur-22 | Parthiv Kumar Nikku <br/> Pillimetla Vamsi <br/> Yallanuru Kishan Sai | OSINT | | 
-| UG22CYS-S2-Sur-23 | Reddicherla Thanuj <br/> Nandana Mahesh | Cyber Forensics | ![](https://img.shields.io/badge/-P-gold) OSINT using Snapchat and Snapchat Forensics | 
-| UG22CYS-S2-Sur-24 | Amita Narayanan Kutty | Cyber Psychology | ![](https://img.shields.io/badge/-P-gold) Metaverse Cyber Psychology | | 
+| UG22CYS-S2-Sur-20 | N Meera | Blockchain | ![](https://img.shields.io/badge/-P-gold) Graph Theory in Blockchain |
+| UG22CYS-S2-Sur-21 | Parthiv Kumar Nikku <br/> Pillimetla Vamsi <br/> Yallanuru Kishan Sai | OSINT | Dark Web Monitoring | 
+| UG22CYS-S2-Sur-22 | Reddicherla Thanuj <br/> Nandana Mahesh | Cyber Forensics | ![](https://img.shields.io/badge/-P-gold) OSINT using Snapchat and Snapchat Forensics | 
+| UG22CYS-S2-Sur-23 | Amita Narayanan Kutty | Cyber Psychology | ![](https://img.shields.io/badge/-P-gold) Metaverse Cyber Psychology | | 
