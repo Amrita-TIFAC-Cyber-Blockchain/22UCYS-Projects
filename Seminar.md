@@ -4,6 +4,7 @@
 
 ## Seminar Status
 
+### Semester 2
 |   Date   |     Name    |    Topic  |
 |:--------:|:-----------:|:---------:|
 | 05-May-2023 | Pavan Shanmukha Madhav Gunda | OWASP Top 10 Vulnerabilities |
@@ -11,6 +12,12 @@
 | 25-May-2023 | Mukund Kumarappan S | OSI Layer  |
 | 25-May-2023 | Joshua Anto A | Artificial Neural Network |
 
+### Semester 3
+|   Date   |     Name    |    Topic  |
+|:--------:|:-----------:|:---------:|
+|          | Kaushik M   | Cryptography in Blockchain |
+|          | Parthiv Kumar Nikku | PenTest |
+|          | Lalitha K | Stock Market Cyber Security Attacks |
 
 ## Seminar Topics
 
